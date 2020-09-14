@@ -1,2 +1,2 @@
 # rabbbitmq-demo
-rabbitmq学习
+用于黑马rabbitmq学习
